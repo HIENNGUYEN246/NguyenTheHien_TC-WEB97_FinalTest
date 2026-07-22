@@ -190,7 +190,7 @@ function App() {
         <header className="top-header">
           <div>
             <div className="header-title">School System</div>
-            <div className="header-meta">16/10/2024 11:23:00</div>
+            <div className="header-meta">22/07/2026</div>
           </div>
           <div className="header-user">
             <div className="user-avatar">A</div>
